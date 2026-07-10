@@ -1,5 +1,5 @@
-project = 'Norton'
-author = 'Your Name'
+project = 'veeam-account'
+author = 'veeam-account'
 release = '1.0'
 
 extensions = []
